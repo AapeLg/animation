@@ -1,4 +1,4 @@
-package com.umpay.animation;
+package com.rgz.animation;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.umpay.animation.animmenu.AnimMenuActivity;
+import com.rgz.animation.animmenu.AnimMenuActivity;
 
 
 public class MainActivity extends ActionBarActivity implements View.OnClickListener {

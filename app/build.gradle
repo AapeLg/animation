@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.umpay.animation"
+        applicationId "com.rgz.animation"
         minSdkVersion 14
         targetSdkVersion 21
         versionCode 1
